@@ -1,0 +1,82 @@
+body {
+	background-color: #efefef;
+	font-family: 'Handlee', cursive;
+	color:#990066;
+	font-size:12px;
+}
+.section {
+	width: 85%;
+	margin:0 auto;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: #fff;
+}
+.img_div {
+	width: auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+h1 {
+	color:#990033;
+	margin:0 0 5px 0;
+	text-align:center;
+	padding: 10px;
+}
+h1 span {
+	border: 4px dashed;
+	padding: 10px 15px 10px;
+	border-radius: 10px;
+}
+.section_step {
+	color:#990033;
+	border-bottom: 1px dotted;
+	font-size:15px;
+	margin-bottom: 10px;
+}
+input {
+	font-size: 12px;
+}
+.list_value {
+	color:#0099CC;
+}
+.gap {
+	margin-left:0px;
+}
+.powered {
+	color: #0099CC;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+.passport_img{
+	margin: 0 auto;
+	display: block;
+}
+.personal_table{
+	display: block;
+	margin: 0 auto;
+}
+td{
+	padding-left: 20px;
+	border: 0px;
+}
+th{
+	font-size: 25px;
+}
+td:nth-child(1){
+	font-size: 15px;
+	font-weight: bold;
+}
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+tr:hover{
+	background-color: #bbbbbb;
+}
